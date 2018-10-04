@@ -1,9 +1,5 @@
 <resources>
     <string name="app_name">FeedBack</string>
-    <string name="hptname">VAN PHUC CLINICS - HOSPITALS NETWORK</string>
-    <string name="address">Đc: 45 Hồ Văn Cống, Khu Phố 4, Phường Tương Bình Hiệp,
-TP Thủ Dầu Một, Tỉnh Bình Dương</string>
-    <string name="tel">Tel: (+84) 6503 77 7999 </string>
-    <string name="fax">Fax:(+84) 6503 77 7998</string>
-    <string name="website">Website: www.hoanmy.com/vanphuc</string>
+    <string name="txtDN">Đăng Nhập</string>
+    <string name="txttendn">Tên Đăng Nhập</string>
 </resources>
